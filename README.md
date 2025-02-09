@@ -55,3 +55,13 @@ All Issues, PRs, Discussions, emails, and anyone who joins in, are subject
 to the [Contributor
 Covenant](https://www.contributor-covenant.org/).
 
+## What happens if the project grows?
+
+Although it's hard to predict everything the project will need,
+two things will definitely happen:
+
+* It'll get it's own org and repo
+* It'll get a more nuanced and granular COC
+
+The "don't be a dick" guidance will still always apply.
+
