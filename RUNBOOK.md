@@ -26,5 +26,5 @@ Recommend using vaguely "t-shirt sizing" for coffees:
 * XLarge - 8
 * XXLarge - 12
 
-Note that, for exaple, a 3 part research series with each article
+Note that, for example, a 3 part research series with each article
 set as "8 coffees" will show as 8x3 or 24 coffees on the topic tile.
