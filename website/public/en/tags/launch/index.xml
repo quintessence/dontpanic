@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on Don&#39;t Panic</title>
-    <link>http://localhost:1313/en/tags/welcome/</link>
-    <description>Recent Posts in Welcome on Don&#39;t Panic</description>
+    <title>Launch on Don&#39;t Panic</title>
+    <link>http://localhost:1313/en/tags/launch/</link>
+    <description>Recent Posts in Launch on Don&#39;t Panic</description>
     <generator>Hugo 0.143.1</generator>
     <language>en-US</language>
     <managingEditor>email@example.com (Author Name)</managingEditor>
     <webMaster>email@example.com (Author Name)</webMaster>
-    <lastBuildDate>Sun, 09 Feb 2025 03:28:18 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2025 10:49:02 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/launch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Landing Page</title>
       <link>http://localhost:1313/en/first/</link>

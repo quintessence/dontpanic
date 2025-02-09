@@ -1,3 +1,6 @@
 [submodule "dontpanic/themes/hugo-brewm"]
 	path = dontpanic/themes/hugo-brewm
 	url = https://github.com/foxihd/hugo-brewm
+[submodule "website/themes/hugo-brewm"]
+	path = website/themes/hugo-brewm
+	url = https://github.com/foxihd/hugo-brewm
