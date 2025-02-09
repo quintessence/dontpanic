@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logo on Don&#39;t Panic</title>
+    <link>http://localhost:1313/en/tags/logo/</link>
+    <description>Recent Posts in Logo on Don&#39;t Panic</description>
+    <generator>Hugo 0.143.1</generator>
+    <language>en-US</language>
+    <managingEditor>email@example.com (Author Name)</managingEditor>
+    <webMaster>email@example.com (Author Name)</webMaster>
+    <lastBuildDate>Sun, 09 Feb 2025 02:54:56 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/logo/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

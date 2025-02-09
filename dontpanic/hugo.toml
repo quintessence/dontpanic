@@ -1,0 +1,4 @@
+baseURL = "https://dontpanic.guide/"
+languageCode = "en-us"
+title = "Don't Panic"
+theme="hugo-brewm"
