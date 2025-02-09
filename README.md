@@ -1,7 +1,7 @@
 # Don't Panic Guide
 
 [Don't Panic Guide](https://dontpanic.guide) © 2025 by
-[Quintessence Anx](@quintessence) is licensed under [CC BY-NC-SA
+[Quintessence Anx](https://github.com/quintessence) is licensed under [CC BY-NC-SA
 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## License (short version)
